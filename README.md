@@ -1,5 +1,4 @@
 ## Hola, I'm [Arlind Shkrela!](https://www.arlindshkrela.tech/) 👋
-<br />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Azure Static Web Apps, projects for 30+ Web frameworks, [VS Code](https://code.visualstudio.com/?wt.mc_id=johnpapa-github-jopapa) extensions, and [Azure](https://docs.microsoft.com/azure?WT.mc_id=johnpapa-github-jopapa)
