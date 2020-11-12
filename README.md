@@ -1,6 +1,8 @@
 ## Hola, I'm [Arlind Shkrela!](https://www.arlindshkrela.tech/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
+<br/>
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Azure Static Web Apps, projects for 30+ Web frameworks, [VS Code](https://code.visualstudio.com/?wt.mc_id=johnpapa-github-jopapa) extensions, and [Azure](https://docs.microsoft.com/azure?WT.mc_id=johnpapa-github-jopapa)
   - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock&wt.mc_id=johnpapa-github-jopapa)
