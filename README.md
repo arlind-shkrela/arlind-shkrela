@@ -5,7 +5,7 @@ Here are some ideas to get you started:
   - [Peacock]
   - [Angular Snippets]
   - [Winter is Coming Theme]
-- 📝 I write stuff at my blog [DotNet Notes](http://dotnetnotes.com/) and [LinkedIn](https://www.linkedin.com/in/arlindshkrela/)
+- 📝 I write stuff at my blog [DotNet Notes](https://www.dotnetnotes.com/) and [LinkedIn](https://www.linkedin.com/in/arlindshkrela/)
 - 🌱 I’m currently learning MSCE, DevOps Engineer Expert
 - 👯 I’m looking to collaborate on gRPC based solutions
 - 🤔 I’m looking for help with ... 
