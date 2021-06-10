@@ -1,7 +1,7 @@
 ## Hola, I'm [Arlind Shkrela!](https://www.arlindshkrela.tech/) 👋
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... .Net Web Apps, projects for 30+ Web frameworks, [VS Code] extensions, and [Azure]
+- 🔭 I’m currently working on ... Web Apps, projects for 30+ Web frameworks, [VS Code] extensions, and [Azure]
 - 📝 I write stuff at my blog [DotNet Notes](https://www.dotnetnotes.com/) and [LinkedIn](https://www.linkedin.com/in/arlindshkrela/)
 - 🌱 I’m currently learning Microsoft Certification: MSCE - Azure Solutions Architect Expert
 - 👯 I’m looking to collaborate on gRPC based solutions
